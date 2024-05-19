@@ -1,0 +1,27 @@
+.card-title,
+.qp-area {
+  font-family: "Kanit", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+.btn-minus,
+.btn-plus {
+  font-size: x-large;
+}
+.quantityText,
+.btn-remove {
+  color: orangered;
+  font-weight: bolder;
+  font-size: x-large;
+}
+.card-text-description {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.btn-outline-primary {
+  background-color: green;
+  border-color: green;
+  color: white;
+}
